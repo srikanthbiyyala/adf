@@ -1,0 +1,6 @@
+{
+	"name": "AzuereSelfHostedintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
